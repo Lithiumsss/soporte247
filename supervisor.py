@@ -2,8 +2,8 @@ import os
 import time
 import requests
 
-# Lee el secreto GH_PAT configurado en GitHub Actions
-GITHUB_TOKEN = os.getenv("GH_PAT")
+# Lee el secreto BOLT_PAT configurado en GitHub Actions
+GITHUB_TOKEN = os.getenv("BOLT_PAT")
 HEADERS = {
     "Authorization": f"Bearer {GITHUB_TOKEN}",
     "Accept": "application/vnd.github.v3+json",
