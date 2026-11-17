@@ -13,24 +13,7 @@ OWNER = "Lithiumsss"
 # Lista de tus repositorios configurados
 REPOS = [
     "LITHIUMS1",
-    "LITHIUMS2",
-    "LITHIUMS3",
-    "LITHIUMS4",
-    "LITHIUMS5",
-    "LITHIUMS6",
-    "LITHIUMS7",
-    "LITHIUMS8",
-    "LITHIUMS9",
-    "LITHIUMS10",
-    "LITHIUMS11",
-    "LITHIUMS12",
-    "LITHIUMS13",
-    "LITHIUMS14",
-    "LITHIUMS15",
-    "LITHIUMS16",
-    "LITHIUMS17",
-    "LITHIUMS18",
-    "LITHIUMS19"
+    "LITHIUMS2"
 ]
 WORKFLOW_FILE = "run.yml"
 
